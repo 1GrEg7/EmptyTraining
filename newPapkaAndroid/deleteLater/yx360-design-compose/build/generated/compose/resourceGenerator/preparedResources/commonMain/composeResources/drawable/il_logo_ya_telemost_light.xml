@@ -1,0 +1,42 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="160dp"
+    android:height="160dp"
+    android:viewportWidth="160"
+    android:viewportHeight="160">
+    <group>
+        <clip-path
+            android:pathData="M0 80c0-28 0-42 5.45-52.7 4.8-9.4 12.44-17.06 21.85-21.85C38 0 52 0 80 0c28 0 42 0 52.7 5.45 9.4 4.8 17.06 12.44 21.85 21.85C160 38 160 52 160 80c0 28 0 42-5.45 52.7-4.8 9.4-12.44 17.06-21.85 21.85C122 160 108 160 80 160c-28 0-42 0-52.7-5.45-9.4-4.8-17.06-12.44-21.85-21.85C0 122 0 108 0 80Z"/>
+        <group>
+            <path
+                android:pathData="M0 80c0-28 0-42 5.45-52.7 4.8-9.4 12.44-17.06 21.85-21.85C38 0 52 0 80 0c28 0 42 0 52.7 5.45 9.4 4.8 17.06 12.44 21.85 21.85C160 38 160 52 160 80c0 28 0 42-5.45 52.7-4.8 9.4-12.44 17.06-21.85 21.85C122 160 108 160 80 160c-28 0-42 0-52.7-5.45-9.4-4.8-17.06-12.44-21.85-21.85C0 122 0 108 0 80Z">
+                <aapt:attr name="android:fillColor">
+                    <gradient
+                        android:type="linear"
+                        android:startX="-16.36"
+                        android:startY="178.18"
+                        android:endX="160"
+                        android:endY="0">
+                        <item
+                            android:color="#FF000000"
+                            android:offset="0"/>
+                        <item
+                            android:color="#FF31404E"
+                            android:offset="1"/>
+                    </gradient>
+                </aapt:attr>
+            </path>
+            <path
+                android:fillColor="#FFFFFFFF"
+                android:fillAlpha="0.6"
+                android:pathData="M76 68c0 4.42-3.58 8-8 8s-8-3.58-8-8 3.58-8 8-8 8 3.58 8 8Z"/>
+            <path
+                android:fillColor="#FFFFFFFF"
+                android:fillType="evenOdd"
+                android:pathData="M56 48c-17.67 0-32 14.33-32 32s14.33 32 32 32 32-14.33 32-32-14.33-32-32-32ZM16 80c0-22.1 17.9-40 40-40s40 17.9 40 40-17.9 40-40 40-40-17.9-40-40Z"/>
+            <path
+                android:fillColor="#FF00FF00"
+                android:pathData="M144 80c0 8.84-7.16 16-16 16s-16-7.16-16-16 7.16-16 16-16 16 7.16 16 16Z"/>
+        </group>
+    </group>
+</vector>

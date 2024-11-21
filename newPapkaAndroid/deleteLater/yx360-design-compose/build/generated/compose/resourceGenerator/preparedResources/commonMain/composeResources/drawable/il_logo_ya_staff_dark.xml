@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="160dp"
+    android:height="160dp"
+    android:viewportWidth="160"
+    android:viewportHeight="160">
+    <group>
+        <clip-path
+            android:pathData="M0 80c0-28 0-42 5.45-52.7 4.8-9.4 12.44-17.06 21.85-21.85C38 0 52 0 80 0c28 0 42 0 52.7 5.45 9.4 4.8 17.06 12.44 21.85 21.85C160 38 160 52 160 80c0 28 0 42-5.45 52.7-4.8 9.4-12.44 17.06-21.85 21.85C122 160 108 160 80 160c-28 0-42 0-52.7-5.45-9.4-4.8-17.06-12.44-21.85-21.85C0 122 0 108 0 80Z">
+            <aapt:attr name="android:fillColor">
+                <gradient
+                    android:type="linear"
+                    android:startX="67.5"
+                    android:startY="57.5"
+                    android:endX="135"
+                    android:endY="155">
+                    <item
+                        android:color="#FF0151AE"
+                        android:offset="0.02"/>
+                    <item
+                        android:color="#FF036DE6"
+                        android:offset="1"/>
+                </gradient>
+            </aapt:attr>
+        </clip-path>
+        <group>
+            <group>
+                <path
+                    android:fillColor="#FFFFB84A"
+                    android:pathData="M0 80c0-28 0-42 5.45-52.7 4.8-9.4 12.44-17.06 21.85-21.85C38 0 52 0 80 0c28 0 42 0 52.7 5.45 9.4 4.8 17.06 12.44 21.85 21.85C160 38 160 52 160 80c0 28 0 42-5.45 52.7-4.8 9.4-12.44 17.06-21.85 21.85C122 160 108 160 80 160c-28 0-42 0-52.7-5.45-9.4-4.8-17.06-12.44-21.85-21.85C0 122 0 108 0 80Z"/>
+            </group>
+            <path
+                android:fillColor="#FFFFFFFF"
+                android:pathData="M80 85c-12.86 0-22.5-13.71-22.5-29.69C57.5 39.34 65.8 30 80 30s22.5 9.34 22.5 25.31C102.5 71.3 92.86 85 80 85Zm0 45c-21.87 0-34.95-2.93-39.25-8.78-0.5-0.69-0.76-1.52-0.73-2.37C40.62 102.95 53.95 95 80 95c26.05 0 39.38 7.95 39.98 23.86 0.03 0.84-0.22 1.67-0.73 2.36-4.3 5.85-17.38 8.78-39.25 8.78Z"/>
+        </group>
+    </group>
+</vector>
